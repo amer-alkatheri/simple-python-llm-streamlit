@@ -7,15 +7,20 @@ A lightweight Large Language Model (LLM) application built with Python. This app
 *   **Secure Config:** API keys are managed via `.env` files to keep your credentials safe.
 *   **Simple Architecture:** Built with plain Python and minimal dependencies.
 
+## 💻 Screenshot
+
+
 ## 🛠️ Installation
 
 1. **Clone the repository:**
+   ```bash
+   https://github.com/amer-alkatheri/simple-python-llm-streamlit.git
 
-2. **Create a virtual environment (optional but recommended):**
+3. **Create a virtual environment (optional but recommended):**
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
-3. **Install dependencies:**
+4. **Install dependencies:**
     ```bash
     pip install -r requirements.txt
