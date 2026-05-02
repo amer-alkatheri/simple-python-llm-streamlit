@@ -8,6 +8,7 @@ A lightweight Large Language Model (LLM) application built with Python. This app
 *   **Simple Architecture:** Built with plain Python and minimal dependencies.
 
 ## 💻 Screenshot
+<img width="1109" height="542" alt="Screenshot 2026-05-02 at 19 31 00" src="https://github.com/user-attachments/assets/26d5d432-5f7e-496f-9974-00fa990527c8" />
 
 
 ## 🛠️ Installation
